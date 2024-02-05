@@ -62,7 +62,7 @@ apiVersion: rbac.authorization.k8s.io/v1
 kind: Role
 metadata:
   name: dailyclean
-  namespace: gthomas59800-dev
+  namespace: emma99-dev
 rules:
   - verbs:
       - get
